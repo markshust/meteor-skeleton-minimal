@@ -15,10 +15,10 @@
   },
   "meteor": {
     "mainModule": {
-      "client": "client/main.js",
-      "server": "server/main.js"
+      "client": "client/index.js",
+      "server": "server/index.js"
     },
-    "testModule": "tests/main.js"
+    "testModule": "tests/index.js"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.1",
